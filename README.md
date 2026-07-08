@@ -7,7 +7,7 @@ The Relative Tree Certainty Allpartitions (TCA) score is an information-theoreti
 2. Pythia Difficulty Score
 Pythia 2.0 (Haag and Stamatakis, 2025) uses RAxML-NG v1.2.2 and a Gradient Boosted Trees regressor to predict the likelihood that multiple independent maximum-likelihood tree inferences will converge on a single topology for a given alignment. Scores range from 0.0 (easy, where inferences will reliably converge) to 1.0 (difficult, where inferences will diverge into conflicting topologies). InfoCheck automates Pythia scoring across all alignment files in a dataset.
 Usage
-Both scoring approaches were applied across 4,845 ortholog alignments as part of a phylogenomic analysis of Aizoaceae. Scripts and usage instructions are available at: https://github.com/tomi-jacobs/InfoCheck
+Both scoring approaches were applied across 4,845 ortholog alignments as part of a phylogenomic analysis of Aizoaceae.
 
 Citations
 
