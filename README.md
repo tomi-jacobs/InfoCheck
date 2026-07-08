@@ -15,3 +15,10 @@ Salichos, L. et al. (2014). Novel information theory-based measures for quantify
 Stamatakis, A. (2014). RAxML version 8. Bioinformatics 30(9): 1312–1313.
 Haag, J. and Stamatakis, A. (2025). Pythia 2.0.
 Kozlov, A.M. et al. (2019). RAxML-NG. Bioinformatics 35(21): 4453–4455.
+
+
+<img width="423" height="264" alt="image" src="https://github.com/user-attachments/assets/da3af11b-9256-42d6-8748-c10a5f75b995" />
+
+<img width="423" height="264" alt="image" src="https://github.com/user-attachments/assets/abddb24c-f15a-4f45-b712-0515200b0f61" />
+
+
